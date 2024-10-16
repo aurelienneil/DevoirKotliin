@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProjetGlo5_1</string>
+    <string name="roll">Roll</string>
+    <string name="precedent">Precedent</string>
+    <string name="suivant">Suivant</string>
+    <string name="titre" >{name} </string>
+
+</resources>
